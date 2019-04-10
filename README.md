@@ -11,4 +11,4 @@ Feature include:
 
 ![Alt text](Screenshots/heli.gif?raw=true "heli.gif")
 
-![Alt text](Screenshots/heli.gif?raw=true "skybox.gif
+![Alt text](Screenshots/heli.gif?raw=true "skybox.gif")
