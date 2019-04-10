@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{69ce3615-2996-46cf-949c-03d8375ebfd3}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;rc;def;r;odl;idl;hpj;bat</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{49f7c192-dae1-491a-8eb4-f6de64b6da1e}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{c0ee3905-0329-49ae-8869-26239be0637c}</UniqueIdentifier>
+      <Extensions>ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="heli.550">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="bmptotexture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="finalProject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="bmptotexture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="_red_centre_back.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="_red_centre_bottom.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="_red_centre_front.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="_red_centre_left.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="_red_centre_right.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="_red_centre_up.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
