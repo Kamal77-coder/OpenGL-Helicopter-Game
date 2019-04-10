@@ -9,4 +9,6 @@ Feature include:
   - Rings for player to fly through
   - Camera changes orientation based on player position
 
-![Alt text](Screenshots/heli.gif?raw=true "Title")
+![Alt text](Screenshots/heli.gif?raw=true "heli.gif")
+
+![Alt text](Screenshots/heli.gif?raw=true "skybox.gif
