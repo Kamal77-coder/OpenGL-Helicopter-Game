@@ -1,155 +1,155 @@
 ﻿  finalProject.cpp
-d:\work\cs450\final project\final project\finalproject.cpp(169): warning C4305: 'initializing': truncation from 'double' to 'float'
-d:\work\cs450\final project\final project\finalproject.cpp(271): warning C4244: '-=': conversion from 'double' to 'T', possible loss of data
+D:\More Work\OpenGL-Helicopter-Game\finalProject.cpp(169): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\More Work\OpenGL-Helicopter-Game\finalProject.cpp(271): warning C4244: '-=': conversion from 'double' to 'T', possible loss of data
           with
           [
               T=float
           ]
-d:\work\cs450\final project\final project\finalproject.cpp(274): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-d:\work\cs450\final project\final project\finalproject.cpp(386): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-d:\work\cs450\final project\final project\finalproject.cpp(406): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-d:\work\cs450\final project\final project\finalproject.cpp(410): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
-d:\work\cs450\final project\final project\finalproject.cpp(416): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
-d:\work\cs450\final project\final project\finalproject.cpp(422): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
-d:\work\cs450\final project\final project\finalproject.cpp(429): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
-d:\work\cs450\final project\final project\finalproject.cpp(436): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
-d:\work\cs450\final project\final project\finalproject.cpp(465): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+D:\More Work\OpenGL-Helicopter-Game\finalProject.cpp(274): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\More Work\OpenGL-Helicopter-Game\finalProject.cpp(386): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\More Work\OpenGL-Helicopter-Game\finalProject.cpp(406): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\More Work\OpenGL-Helicopter-Game\finalProject.cpp(410): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\More Work\OpenGL-Helicopter-Game\finalProject.cpp(416): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\More Work\OpenGL-Helicopter-Game\finalProject.cpp(422): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\More Work\OpenGL-Helicopter-Game\finalProject.cpp(429): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\More Work\OpenGL-Helicopter-Game\finalProject.cpp(436): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\More Work\OpenGL-Helicopter-Game\finalProject.cpp(465): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
           with
           [
               T=float
           ]
-d:\work\cs450\final project\final project\finalproject.cpp(466): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+D:\More Work\OpenGL-Helicopter-Game\finalProject.cpp(466): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
           with
           [
               T=float
           ]
-d:\work\cs450\final project\final project\finalproject.cpp(467): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+D:\More Work\OpenGL-Helicopter-Game\finalProject.cpp(467): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
           with
           [
               T=float
           ]
-d:\work\cs450\final project\final project\finalproject.cpp(474): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+D:\More Work\OpenGL-Helicopter-Game\finalProject.cpp(474): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
           with
           [
               T=float
           ]
-d:\work\cs450\final project\final project\finalproject.cpp(475): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+D:\More Work\OpenGL-Helicopter-Game\finalProject.cpp(475): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
           with
           [
               T=float
           ]
-d:\work\cs450\final project\final project\finalproject.cpp(476): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+D:\More Work\OpenGL-Helicopter-Game\finalProject.cpp(476): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
           with
           [
               T=float
           ]
-d:\work\cs450\final project\final project\finalproject.cpp(483): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+D:\More Work\OpenGL-Helicopter-Game\finalProject.cpp(483): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
           with
           [
               T=float
           ]
-d:\work\cs450\final project\final project\finalproject.cpp(484): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+D:\More Work\OpenGL-Helicopter-Game\finalProject.cpp(484): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
           with
           [
               T=float
           ]
-d:\work\cs450\final project\final project\finalproject.cpp(485): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+D:\More Work\OpenGL-Helicopter-Game\finalProject.cpp(485): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
           with
           [
               T=float
           ]
-d:\work\cs450\final project\final project\finalproject.cpp(492): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+D:\More Work\OpenGL-Helicopter-Game\finalProject.cpp(492): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
           with
           [
               T=float
           ]
-d:\work\cs450\final project\final project\finalproject.cpp(493): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+D:\More Work\OpenGL-Helicopter-Game\finalProject.cpp(493): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
           with
           [
               T=float
           ]
-d:\work\cs450\final project\final project\finalproject.cpp(494): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+D:\More Work\OpenGL-Helicopter-Game\finalProject.cpp(494): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
           with
           [
               T=float
           ]
-d:\work\cs450\final project\final project\finalproject.cpp(931): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-d:\work\cs450\final project\final project\finalproject.cpp(933): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-d:\work\cs450\final project\final project\finalproject.cpp(934): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-d:\work\cs450\final project\final project\finalproject.cpp(936): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-d:\work\cs450\final project\final project\finalproject.cpp(974): warning C4305: '+=': truncation from 'double' to 'float'
-d:\work\cs450\final project\final project\finalproject.cpp(979): warning C4305: '-=': truncation from 'double' to 'float'
-d:\work\cs450\final project\final project\finalproject.cpp(1001): warning C4305: '+=': truncation from 'double' to 'T'
+D:\More Work\OpenGL-Helicopter-Game\finalProject.cpp(931): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\More Work\OpenGL-Helicopter-Game\finalProject.cpp(933): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\More Work\OpenGL-Helicopter-Game\finalProject.cpp(934): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\More Work\OpenGL-Helicopter-Game\finalProject.cpp(936): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\More Work\OpenGL-Helicopter-Game\finalProject.cpp(974): warning C4305: '+=': truncation from 'double' to 'float'
+D:\More Work\OpenGL-Helicopter-Game\finalProject.cpp(979): warning C4305: '-=': truncation from 'double' to 'float'
+D:\More Work\OpenGL-Helicopter-Game\finalProject.cpp(1001): warning C4305: '+=': truncation from 'double' to 'T'
           with
           [
               T=float
           ]
-d:\work\cs450\final project\final project\finalproject.cpp(1002): warning C4305: '-=': truncation from 'double' to 'T'
+D:\More Work\OpenGL-Helicopter-Game\finalProject.cpp(1002): warning C4305: '-=': truncation from 'double' to 'T'
           with
           [
               T=float
           ]
-d:\work\cs450\final project\final project\finalproject.cpp(1015): warning C4305: '-=': truncation from 'double' to 'T'
+D:\More Work\OpenGL-Helicopter-Game\finalProject.cpp(1015): warning C4305: '-=': truncation from 'double' to 'T'
           with
           [
               T=float
           ]
-d:\work\cs450\final project\final project\finalproject.cpp(1016): warning C4305: '-=': truncation from 'double' to 'T'
+D:\More Work\OpenGL-Helicopter-Game\finalProject.cpp(1016): warning C4305: '-=': truncation from 'double' to 'T'
           with
           [
               T=float
           ]
-d:\work\cs450\final project\final project\finalproject.cpp(1029): warning C4305: '-=': truncation from 'double' to 'T'
+D:\More Work\OpenGL-Helicopter-Game\finalProject.cpp(1029): warning C4305: '-=': truncation from 'double' to 'T'
           with
           [
               T=float
           ]
-d:\work\cs450\final project\final project\finalproject.cpp(1030): warning C4305: '+=': truncation from 'double' to 'T'
+D:\More Work\OpenGL-Helicopter-Game\finalProject.cpp(1030): warning C4305: '+=': truncation from 'double' to 'T'
           with
           [
               T=float
           ]
-d:\work\cs450\final project\final project\finalproject.cpp(1043): warning C4305: '+=': truncation from 'double' to 'T'
+D:\More Work\OpenGL-Helicopter-Game\finalProject.cpp(1043): warning C4305: '+=': truncation from 'double' to 'T'
           with
           [
               T=float
           ]
-d:\work\cs450\final project\final project\finalproject.cpp(1044): warning C4305: '+=': truncation from 'double' to 'T'
+D:\More Work\OpenGL-Helicopter-Game\finalProject.cpp(1044): warning C4305: '+=': truncation from 'double' to 'T'
           with
           [
               T=float
           ]
-d:\work\cs450\final project\final project\finalproject.cpp(1060): warning C4305: '-=': truncation from 'double' to 'T'
+D:\More Work\OpenGL-Helicopter-Game\finalProject.cpp(1060): warning C4305: '-=': truncation from 'double' to 'T'
           with
           [
               T=float
           ]
-d:\work\cs450\final project\final project\finalproject.cpp(1061): warning C4305: '-=': truncation from 'double' to 'T'
+D:\More Work\OpenGL-Helicopter-Game\finalProject.cpp(1061): warning C4305: '-=': truncation from 'double' to 'T'
           with
           [
               T=float
           ]
-d:\work\cs450\final project\final project\finalproject.cpp(1074): warning C4305: '+=': truncation from 'double' to 'T'
+D:\More Work\OpenGL-Helicopter-Game\finalProject.cpp(1074): warning C4305: '+=': truncation from 'double' to 'T'
           with
           [
               T=float
           ]
-d:\work\cs450\final project\final project\finalproject.cpp(1075): warning C4305: '-=': truncation from 'double' to 'T'
+D:\More Work\OpenGL-Helicopter-Game\finalProject.cpp(1075): warning C4305: '-=': truncation from 'double' to 'T'
           with
           [
               T=float
           ]
-d:\work\cs450\final project\final project\finalproject.cpp(1088): warning C4305: '+=': truncation from 'double' to 'T'
+D:\More Work\OpenGL-Helicopter-Game\finalProject.cpp(1088): warning C4305: '+=': truncation from 'double' to 'T'
           with
           [
               T=float
           ]
-d:\work\cs450\final project\final project\finalproject.cpp(1089): warning C4305: '+=': truncation from 'double' to 'T'
+D:\More Work\OpenGL-Helicopter-Game\finalProject.cpp(1089): warning C4305: '+=': truncation from 'double' to 'T'
           with
           [
               T=float
           ]
-d:\work\cs450\final project\final project\finalproject.cpp(1116): warning C4244: '-=': conversion from 'double' to 'unsigned int', possible loss of data
-d:\work\cs450\final project\final project\finalproject.cpp(1120): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+D:\More Work\OpenGL-Helicopter-Game\finalProject.cpp(1116): warning C4244: '-=': conversion from 'double' to 'unsigned int', possible loss of data
+D:\More Work\OpenGL-Helicopter-Game\finalProject.cpp(1120): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
 bmptotexture.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
-  Sample.vcxproj -> D:\work\cs450\Final Project\Final Project\.\Debug\Sample.exe
+  Sample.vcxproj -> D:\More Work\OpenGL-Helicopter-Game\.\Debug\Sample.exe

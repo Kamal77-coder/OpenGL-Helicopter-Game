@@ -509,7 +509,7 @@ void InitTextures() {
 	glGenTextures(1, &tex_world_bot);
 
 	glBindTexture(GL_TEXTURE_2D, tex_world_back);
-	unsigned char *Texture1 = BmpToTexture("_red_centre_back.bmp", &width, &height);
+	unsigned char *Texture1 = BmpToTexture("resources/_red_centre_back.bmp", &width, &height);
 	glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_WRAP_S, GL_CLAMP_TO_EDGE);
 	glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_WRAP_T, GL_CLAMP_TO_EDGE);
 	glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MAG_FILTER, GL_LINEAR);
@@ -519,7 +519,7 @@ void InitTextures() {
 	glTexImage2D(GL_TEXTURE_2D, level, ncomps, width, height, border, GL_RGB, GL_UNSIGNED_BYTE, Texture1);
 	
 	glBindTexture(GL_TEXTURE_2D, tex_world_front);
-	unsigned char *Texture2 = BmpToTexture("_red_centre_front.bmp", &width, &height);
+	unsigned char *Texture2 = BmpToTexture("resources/_red_centre_front.bmp", &width, &height);
 	glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_WRAP_S, GL_CLAMP_TO_EDGE);
 	glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_WRAP_T, GL_CLAMP_TO_EDGE);
 	glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MAG_FILTER, GL_LINEAR);
@@ -529,7 +529,7 @@ void InitTextures() {
 	glTexImage2D(GL_TEXTURE_2D, level, ncomps, width, height, border, GL_RGB, GL_UNSIGNED_BYTE, Texture2);
 
 	glBindTexture(GL_TEXTURE_2D, tex_world_left);
-	unsigned char *Texture3 = BmpToTexture("_red_centre_left.bmp", &width, &height);
+	unsigned char *Texture3 = BmpToTexture("resources/_red_centre_left.bmp", &width, &height);
 	glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_WRAP_S, GL_CLAMP_TO_EDGE);
 	glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_WRAP_T, GL_CLAMP_TO_EDGE);
 	glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MAG_FILTER, GL_LINEAR);
@@ -539,7 +539,7 @@ void InitTextures() {
 	glTexImage2D(GL_TEXTURE_2D, level, ncomps, width, height, border, GL_RGB, GL_UNSIGNED_BYTE, Texture3);
 
 	glBindTexture(GL_TEXTURE_2D, tex_world_right);
-	unsigned char *Texture4 = BmpToTexture("_red_centre_right.bmp", &width, &height);
+	unsigned char *Texture4 = BmpToTexture("resources/_red_centre_right.bmp", &width, &height);
 	glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_WRAP_S, GL_CLAMP_TO_EDGE);
 	glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_WRAP_T, GL_CLAMP_TO_EDGE);
 	glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MAG_FILTER, GL_LINEAR);
@@ -549,7 +549,7 @@ void InitTextures() {
 	glTexImage2D(GL_TEXTURE_2D, level, ncomps, width, height, border, GL_RGB, GL_UNSIGNED_BYTE, Texture4);
 
 	glBindTexture(GL_TEXTURE_2D, tex_world_top);
-	unsigned char *Texture5 = BmpToTexture("_red_centre_up.bmp", &width, &height);
+	unsigned char *Texture5 = BmpToTexture("resources/_red_centre_up.bmp", &width, &height);
 	glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_WRAP_S, GL_CLAMP_TO_EDGE);
 	glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_WRAP_T, GL_CLAMP_TO_EDGE);
 	glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MAG_FILTER, GL_LINEAR);
@@ -559,7 +559,7 @@ void InitTextures() {
 	glTexImage2D(GL_TEXTURE_2D, level, ncomps, width, height, border, GL_RGB, GL_UNSIGNED_BYTE, Texture5);
 
 	glBindTexture(GL_TEXTURE_2D, tex_world_bot);
-	unsigned char *Texture6 = BmpToTexture("_red_centre_bottom.bmp", &width, &height);
+	unsigned char *Texture6 = BmpToTexture("resources/_red_centre_bottom.bmp", &width, &height);
 	glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_WRAP_S, GL_CLAMP_TO_EDGE);
 	glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_WRAP_T, GL_CLAMP_TO_EDGE);
 	glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MAG_FILTER, GL_LINEAR);
