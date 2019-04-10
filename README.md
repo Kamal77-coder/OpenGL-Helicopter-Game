@@ -8,3 +8,5 @@ Feature include:
   - Textured environment
   - Rings for player to fly through
   - Camera changes orientation based on player position
+
+![Alt text](Screenshots/heli.gif?raw=true "Title")
