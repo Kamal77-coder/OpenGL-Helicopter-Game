@@ -9,6 +9,10 @@ Feature include:
   - Rings for player to fly through
   - Camera changes orientation based on player position
 
+<p align="center">
+  <img src="Screenshots/heli.gif" width="350" title="hover text">
+</p>
+
 ![Alt text](Screenshots/heli.gif?raw=true "heli.gif")
 
 ![Alt text](Screenshots/skybox.gif?raw=true "skybox.gif")
